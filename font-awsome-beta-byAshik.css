@@ -564,16 +564,16 @@ svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
 @ https://github.com/mhd-sinan-m
  */
 /* v6.7.1  */
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/all.css")
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/all.css");
 /* components */
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-thin.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-solid.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-regular.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-light.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-thin.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-solid.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-regular.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-light.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-thin.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-regular.css")
-@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-light.css")
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-thin.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-solid.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-regular.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-duotone-light.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-thin.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-solid.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-regular.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/sharp-light.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-thin.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-regular.css");
+@import url("https://site-assets.fontawesome.com/releases/v6.7.1/css/duotone-light.css");
